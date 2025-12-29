@@ -89,18 +89,7 @@
 ###
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=andonigarcia240&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"
-    height="150"
-    alt="streak graph"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=andonigarcia240&theme=darkhub&no-bg=true&no-frame=true&column=-1&margin-w=8&margin-h=8"
-    alt="trophy graph"
-  />
+  <img src="https://streak-stats.demolab.com?user=andonigarcia240&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 
 ###
